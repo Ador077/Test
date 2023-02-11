@@ -481,7 +481,7 @@ class load:
 			print('\r Loading ...')
 			sys.stdout.flush()
 			time.sleep(0.1)
-		print('\n')
+		print('\033[1;32m')
 banner = """   
 print('\033[1;32m')
 print('\033[1;32m   ___  ___________________  _  __    ___________  ____
