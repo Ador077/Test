@@ -440,7 +440,7 @@ class __filecrack3__:
 			time.sleep(1)
 			print('\033[1;37m[+]\033[1;33m FILE CLONING ONLY OK IDS ')
 			print('\033[1;37m[+]\033[1;36m TOTAL IDS \033[1;91m: \033[1;32m%s ' % len(self.id))
-			print('\033[1;37m[+]\033[1;36m𝗥𝗔𝗝 PROCESS HAS BEEN STARTED')
+			print('\033[1;37m[+]\033[1;36mFIRE PROCESS HAS BEEN STARTED')
 			print(50*"\033[1;97m_")
 			print('      \033[1;97m\033[1;41m [ IF  NO RESULT USE AIRPLANE MODE ] \033[0m\033[1;93m')
 			print(50*"\033[1;97m_")
@@ -483,6 +483,7 @@ class load:
 			time.sleep(0.1)
 		print('\n')
 banner = """   
+\033[1;32m
    ___  ___________________  _  __    ___________  ____
   / _ |/ ___/_  __/  _/ __ \/ |/ /___/ __/  _/ _ \/ __/
  / __ / /__  / / _/ // /_/ /    /___/ _/_/ // , _/ _/  
@@ -490,7 +491,7 @@ banner = """
                                                                                                                            
 =================================================
     [-] AUTHOR    :\033[1;32m Ali
-    [-] GITHUB    :\033[1;32m Kobir2018
+    [-] GITHUB    :\033[1;37m Kobir2018
     [-] WhatsApp  :\033[1;32m 01730853768
     [-] TOOLS     :\033[1;32m FILE CLONE
     [-] VERSION   :\033[1;32m 1.2
